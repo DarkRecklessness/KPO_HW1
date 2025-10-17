@@ -1,0 +1,9 @@
+#ifndef ALLANIMALS_H
+#define ALLANIMALS_H
+#include "../../domain/Animals/Tiger.h"
+#include "../../domain/Animals/Wolf.h"
+#include "../../domain/Animals/Rabbit.h"
+#include "../../domain/Animals/Monkey.h"
+#include "../../domain/Things/Table.h"
+#include "../../domain/Things/Computer.h"
+#endif //ALLANIMALS_H

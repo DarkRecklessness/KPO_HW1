@@ -1,0 +1,10 @@
+#ifndef ALLINTERFACES_H
+#define ALLINTERFACES_H
+#include "IAlive.h"
+#include "IZoo.h"
+#include "IAnimalRepository.h"
+#include "IIdGenerator.h"
+#include "IVeterinaryClinic.h"
+#include "IThingRepository.h"
+#include "IInventory.h"
+#endif //ALLINTERFACES_H
